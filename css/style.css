@@ -414,6 +414,7 @@ button {
 .advisor_section{
     width: 100%;
     float: left;
+    
 }
 
 .what_text{
@@ -434,6 +435,7 @@ button {
 .advisor_section{
     width: 100%;
     float: left;
+    margin: 0cm;
 }
 
 .box_main{
@@ -523,6 +525,7 @@ button {
 .advisor_section_2 {
     width: 100%;
     float: left;
+    margin-bottom: 1rem;
 }
 .image_8{
     width: 100%;
@@ -546,6 +549,7 @@ button {
 .portfolio_section{
     width: 100%;
     float: left;
+    
 }
 .images_section{
     width: 100%;
